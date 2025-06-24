@@ -14,7 +14,7 @@
 - 🔭 I’m currently building web apps with **React**, **Tailwind/DaisyUI**, and **Express**
 - 🌱 I’m learning **Full-Stack Development** from Programming Hero 🚀
 - 💬 Ask me about **CRUD, REST APIs, or building responsive UIs**
-- 📫 How to reach me: `naeem84.dev@gmail.com`
+- 📫 How to reach me: `naeemislam.hasan74@gmail.com`
 - 💼 Future Goal: Become a confident **MERN stack developer**
 - 🧩 Fun Fact: I enjoy solving real-world problems through clean and effective code
 
@@ -74,7 +74,7 @@
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/naeem-islam-dv474/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-islam-dv474/)  
 ✉️ **Email:** `naeemislam.hasan74@gmail.com`
 
 ---
