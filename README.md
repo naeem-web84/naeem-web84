@@ -1,9 +1,70 @@
- <h1 align="center">Frontend Craftsman | Backend Apprentice Naeem Islam</h1>
-<h3 align="center">Building modern web apps with React, Express & MongoDB</h3>
+ <!-- Profile README for naeem-web84 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi there 👋, I'm Naeem</h1>
+<h3 align="center">Aspiring Full-Stack Developer | React • Node • MongoDB • Express</h3>
+
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently building web apps with **React**, **Tailwind/DaisyUI**, and **Express**
+- 🌱 I’m learning **Full-Stack Development** from Programming Hero 🚀
+- 💬 Ask me about **CRUD, REST APIs, or building responsive UIs**
+- 📫 How to reach me: `naeem84.dev@gmail.com`
+- 💼 Future Goal: Become a confident **MERN stack developer**
+- 🧩 Fun Fact: I enjoy solving real-world problems through clean and effective code
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0FC8?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Tools:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naeem-web84&show_icons=true&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naeem-web84&theme=react&hide_border=true" width="48%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 📂 Featured Projects
+
+- 💼 **HobbyHub** — Local Hobby Group Organizer  
+  `React + Express + MongoDB`
+
+- ❄️ **FrostBox** — Winter-Themed Subscription Platform  
+  `React + Firebase + TailwindCSS`
+
+- 🌳 **Social Event Platform** — For tree plantations, cleanups & more  
+  `React + MongoDB + Protected Routes`
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+
+---
+
+> “Code is not just what I do, it’s how I think. Every line is a step closer to solving real problems.”
+
