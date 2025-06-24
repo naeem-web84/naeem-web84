@@ -74,8 +74,7 @@
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/naeem-islam-dv474/))  
 ✉️ **Email:** `naeemislam.hasan74@gmail.com`
 
 ---
