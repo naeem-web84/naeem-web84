@@ -5,18 +5,23 @@
 </div>
 
 <h1 align="center">Hi there 👋 I'm Naeem</h1>
-<h3 align="center">Aspiring <b>Full-Stack Developer</b> | React • DaisyUI • Express • MongoDB</h3>
+<h3 align="center">Aspiring Full-Stack Developer | React • DaisyUI • Express • MongoDB</h3>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently building web apps with **React**, **Tailwind/DaisyUI**, and **Express**
-- 🌱 I’m learning **Full-Stack Development** from Programming Hero 🚀
-- 💬 Ask me about **CRUD, REST APIs, or building responsive UIs**
-- 📫 How to reach me: `naeemislam.hasan74@gmail.com`
-- 💼 Future Goal: Become a confident **MERN stack developer**
-- 🧩 Fun Fact: I enjoy solving real-world problems through clean and effective code
+Hi! I'm Naeem, a passionate web developer from Bangladesh, currently learning and building full-stack projects with modern technologies. I enjoy building responsive user interfaces and scalable backend systems using the MERN stack. I'm always excited to learn new tools and frameworks that help bring ideas to life.
+
+---
+
+### 🚀 Current Focus
+
+- 🔭 Building a full-featured **Hobby Group Organizer Platform** using React and MongoDB  
+- 🌱 Exploring **Protected Routes**, **JWT Authentication**, and **image uploads**  
+- 🎯 Practicing **responsive UI** with DaisyUI and Tailwind  
+- 🛠 Working on polishing my GitHub and portfolio for job readiness  
+- 📘 Learning **deployment workflows** with Netlify and Vercel  
 
 ---
 
@@ -40,11 +45,15 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naeem-web84&show_icons=true&theme=react&hide_border=true" width="45%" />
   <img src="https://streak-stats.demolab.com/?user=naeem-web84&theme=react&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeem-web84&layout=compact&theme=react&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -53,33 +62,27 @@
 
 #### 🌐 **HobbyHub** — Hobby Community Organizer  
 - `React + Express + MongoDB`
-- Features: Group creation, events, user login, updates
+- Features: Group creation, event posts, login system, dashboard
 
-#### ❄️ **FrostBox** — Winter-Themed Subscription Platform  
+#### ❄️ **FrostBox** — Winter Subscription Service  
 - `React + Firebase + TailwindCSS`  
-- Features: Monthly boxes, reviews, dynamic routes
+- Features: Monthly boxes, dynamic reviews, protected routes
 
-#### 🌱 **TreeConnect** — Community Eco Events App  
+#### 🌱 **TreeConnect** — Eco-Friendly Social Platform  
 - `MERN Stack + JWT`
-- Features: Event creation, profile system, analytics
+- Features: Profile system, eco event listing, analytics
 
 ---
 
-### 🎯 Goals for 2025
-- Master **JWT Auth**, **image uploads**, **error handling**
-- Build real-world projects and share on portfolio
-- Join open-source contributions
-- Apply for **Junior Web Developer roles**
+### 📫 Let's Connect
 
----
-
-### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-islam-dv474/)  
 ✉️ **Email:** `naeemislam.hasan74@gmail.com`
 
 ---
 
-### 😄 Fun Zone  
+### 😄 Fun Zone
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 > “Code never lies, comments sometimes do.” — Ron Jeffries
