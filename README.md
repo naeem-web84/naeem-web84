@@ -1,7 +1,7 @@
  <!-- Profile README for naeem-web84 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naeem-web84/naeem-web84/refs/heads/main/header.png" alt="Header Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/naeem-web84/naeem-web84/refs/heads/main/header-image-three.png" alt="Header Image" width="100%" />
 </div>
 
 <h1 align="center">Hi there 👋 I'm Naeem</h1>
