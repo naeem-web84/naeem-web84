@@ -1,7 +1,7 @@
  <!-- Profile README for naeem-web84 -->
 
 <div align="center">
-  <img src="https://i.ibb.co/FkwRVWSs/Gemini-Generated-Image-vroby1vroby1vrob.png" width="100%" />
+  <img src="https://i.ibb.co/qMRRrx28/Gemini-Generated-Image-esnkrkesnkrkesnk.png" width="100%" />
 </div>
 
 <h1 align="center">Hi there 👋 I'm Naeem</h1>
