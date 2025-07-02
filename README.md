@@ -1,7 +1,7 @@
  <!-- Profile README for naeem-web84 -->
 
 <div align="center">
-  <img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-3460-6230-9a81-c773f369fd95/raw?se=2025-07-02T19%3A28%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=49869b5e-3586-5700-aacf-5d815eab92fc&skoid=61180a4f-34a9-42b7-b76d-9ca47d89946d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-02T16%3A10%3A27Z&ske=2025-07-03T16%3A10%3A27Z&sks=b&skv=2024-08-04&sig=RDUCtwmrLSsyyk6TRZ40vZ9UVJq46P1H6wKfYt6jCPA%3D" alt="Header Image" width="100%" />
+  <img src="https://i.ibb.co/FkwRVWSs/Gemini-Generated-Image-vroby1vroby1vrob.png" alt="Header Image" width="100%" />
 </div>
 
 <h1 align="center">Hi there 👋 I'm Naeem</h1>
