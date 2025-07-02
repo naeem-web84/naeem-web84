@@ -1,7 +1,7 @@
  <!-- Profile README for naeem-web84 -->
 
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KQiu4gsfHBwAt8kOpJJtg5UAr73W8uoPtrqZVnwqMECBG81FiAK7w4c_N_3zz5t0xC5bDWG5uu1KQaoJ2APb2ACTOzxR5LIoz_bgdeMJE5Jcb4SIcgIlR0lq3NiUXX0Mc5H7d8RQgmRj98rilEIyGuCIXjstUdBig-2ljdt1G18C6Pt=s1024" alt="Naeem Full-Stack MERN Developer Banner" width="100%" />
+  <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KQB55tgmE_5pGJiaPEvyg58Hl0b367gNpNdEievo18rW6TT_t4ypMsUqjg9Tin95rP1o_JeK8NHZM8eNU3Ir5pmAtUqLsLnvVLNN-Jl4mla6eoQ2p6KupBWcZzk5hlZy0lt6n3arBB-JiLVrJaGM-VmF6NnPVWFs6csnGpAEFqZ44DLIA=s1024" width="100%" />
 </div>
 
 <h1 align="center">Hi there 👋 I'm Naeem</h1>
