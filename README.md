@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi there 👋 I'm Naeem</h1>
-<h3 align="center">Aspiring Full-Stack MERN Developer | React • DaisyUI • Express • MongoDB</h3>
+<h3 align="center">Aspiring Full-Stack Developer | React • DaisyUI • Express • MongoDB</h3>
 
 ---
 
