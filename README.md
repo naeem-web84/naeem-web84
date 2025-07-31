@@ -26,10 +26,6 @@ Hi! I'm Naeem, a passionate web developer from Bangladesh, currently learning an
 ---
 
 ### 🛠️ Skills & Tools
- <div style="width: 100%; max-height: auto; overflow: hidden;">
-  <img src="https://i.ibb.co/xSSFx1wn/Gray-White-Minimalist-Personal-Profile-Linkedin-Banner.png" style="width: 100%; height: auto;" alt="Banner" />
-</div>
-
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
