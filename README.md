@@ -1,7 +1,7 @@
  <!-- Profile README for naeem-web84 -->
 
 <p align="center">
- <img src="https://i.ibb.co/xSSFx1wn/Gray-White-Minimalist-Personal-Profile-Linkedin-Banner.png" alt="Banner" style="width:100%; height:auto; max-height:300px; object-fit:cover;" />
+  <img src="https://i.ibb.co/xSSFx1wn/Gray-White-Minimalist-Personal-Profile-Linkedin-Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Naeem</h1>
